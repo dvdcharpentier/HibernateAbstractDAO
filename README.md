@@ -1,7 +1,7 @@
 HibernateAbstractDAO
 ====================
 
-Add in maven
+Add in pom.xml
 
 ```
     <repository>
